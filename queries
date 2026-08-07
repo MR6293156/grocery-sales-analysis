@@ -1,1 +1,2 @@
-SELECT * FROM public.grocery_sales
+## Summary
+This dataset contains a list of various stores' department weekly sales covering 231,522 records. It was obtained from a sample projects database in DataLab.
